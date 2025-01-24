@@ -14,15 +14,7 @@ This is a simple weather application that fetches the current temperature of a g
      git clone <repository_url>
      ```
 
-3. **Install Dependencies:**
-   - If using a package manager like npm or yarn:
-     ```bash
-     npm install 
-     # or
-     yarn install
-     ```
-
-4. **Configure API Key:**
+3. **Configure API Key:**
    - Create a file (e.g., `config.js`) to store your API key:
 
      ```javascript
@@ -30,7 +22,7 @@ This is a simple weather application that fetches the current temperature of a g
      export default apiKey;
      ```
 
-5. **Run the Application:**
+4. **Run the Application:**
    - Start the application (e.g., using a development server if applicable).
 
 **Usage:**
